@@ -1,3 +1,4 @@
 # python
-This is my first git repository<br>
-author :- nishant diwakar
+This is my first git repository
+<br>
+author :- nishant diwa
